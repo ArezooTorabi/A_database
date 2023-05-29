@@ -1,0 +1,17 @@
+C:\Users\toshiba\source\repos\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\Database1.mdf
+C:\Users\toshiba\source\repos\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\Database1_log.ldf
+C:\Users\toshiba\source\repos\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.exe.config
+C:\Users\toshiba\source\repos\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.exe
+C:\Users\toshiba\source\repos\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.pdb
+C:\Users\toshiba\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.AssemblyReference.cache
+C:\Users\toshiba\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.SuggestedBindingRedirects.cache
+C:\Users\toshiba\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Properties.Resources.resources
+C:\Users\toshiba\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.GenerateResource.cache
+C:\Users\toshiba\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.exe
+C:\Users\toshiba\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.pdb
+C:\Users\toshiba\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form2.resources
+C:\Users\toshiba\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.forma.resources
+C:\Users\toshiba\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.formb.resources
+C:\Users\toshiba\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.formc.resources
+C:\Users\toshiba\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.formd.resources
